@@ -10,7 +10,7 @@
 
 #### 🧢 Idade: 16 anos.
 
-#### 🇺🇸 Nivel de inglês: Intermediário
+#### 📌 Nivel de inglês: Intermediário
 
 
 <!--
