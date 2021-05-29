@@ -2,7 +2,7 @@
 
 #### 🚀 Desenvolvedor React
 
-#### 💻 Tecnologias tenho experiência( Html, Css, NodeJs, )
+#### 💻 Tecnologias tenho experiência( Html, Css, VueJs, NodeJs, MongoDB)
 
 #### 💼 Meu diferencial( Trabalhar em equipe, Ajudar as pessoas e Trabalhar por Prazer)
 
