@@ -1,12 +1,39 @@
-### Olá Seja Bem Vindo ao meu Git👋
+### Hi there 👋
+## I'm João Vitor
+- I live in Brasil , south :😎🥶
 
-#### 🚀 Desenvolvedor React
+## Connect with me:
 
-#### 💻 Tecnologias tenho experiência( Html, Css, VueJs, NodeJs, MongoDB)
+<a href="https://www.linkedin.com/in/joao-vitor-hanel-6b11ba202/" target="_blank">
+<img align="center" alt="Linkedin" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"
+</a>
+  
+<a href="https://twitter.com/wfp_z" target="_blank">
+<img align="center" alt="Twitter" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;"
+</a>
+  
+## My Skills
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
+style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"
+style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"
+style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"
+style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"
+style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"
+style="max-width:100%;"></img>
 
-#### 💼 Meu diferencial( Trabalhar em equipe, Ajudar as pessoas e Trabalhar por Prazer)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorhanel&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhanel)](https://github.com/joaovitorhanel/github-readme-stats)
 
-
+  
+  
+ 
 
 <!--
 **JoaoVitorHanel/JoaoVitorHanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
