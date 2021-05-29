@@ -28,8 +28,8 @@ style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"
 style="max-width:100%;"></img>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorhanel&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorhanel)](https://github.com/joaovitorhanel/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorHanel&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorHanel)](https://github.com/joaovitorhanel/github-readme-stats)
 
   
   
