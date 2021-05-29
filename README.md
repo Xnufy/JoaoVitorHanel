@@ -4,13 +4,8 @@
 
 #### 💻 Tecnologias tenho experiência( Html, Css, NodeJs, )
 
-#### 💻 Tecnologias que quero aprender futuramente( Pyton, Kotlin e Java )
-
 #### 💼 Meu diferencial( Trabalhar em equipe, Ajudar as pessoas e Trabalhar por Prazer)
 
-#### 🧢 Idade: 16 anos.
-
-#### 📌 Nivel de inglês: Intermediário
 
 
 <!--
