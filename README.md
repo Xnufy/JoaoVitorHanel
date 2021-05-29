@@ -1,4 +1,17 @@
-### Hi there 👋
+### Olá Seja Bem Vindo ao meu Git👋
+
+#### 🚀 Desenvolvedor React
+
+#### 💻 Tecnologias tenho experiência( Html, Css, NodeJs, )
+
+#### 💻 Tecnologias que quero aprender futuramente( Pyton, Kotlin e Java )
+
+#### 💼 Meu diferencial( Trabalhar em equipe, Ajudar as pessoas e Trabalhar por Prazer)
+
+#### 🧢 Idade: 16 anos.
+
+#### 🇺🇸 Nivel de inglês: Intermediário
+
 
 <!--
 **JoaoVitorHanel/JoaoVitorHanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
