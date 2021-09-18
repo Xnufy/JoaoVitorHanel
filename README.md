@@ -10,7 +10,7 @@
 <a href="https://instagram.com/joaovitor0177" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "joaovitor0177" height = "30" largura = " 40 "/> </ a>
 </p>
 
-## My Skills
+## Minhas habilidades
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
 style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"
