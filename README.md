@@ -1,19 +1,15 @@
-### Hi there 👋
-## I'm João Vitor
-- I live in Brasil , south :😎🥶
+<h1 align = "center"> Olá 👋, sou o João Vitor </h1>
+<h3 align = "center"> React Developer </h3>
 
-## Connect with me:
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https: // xnufyportfolio.netlify.app/](https://xnufyportfolio.netlify.app/)
 
-<a href="https://www.linkedin.com/in/joao-vitor-hanel-6b11ba202/" target="_blank">
-<img align="center" alt="Linkedin" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"
-</a>
-  
-<a href="https://twitter.com/wfp_z" target="_blank">
-<img align="center" alt="Twitter" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" style="max-width:100%;"
-</a>
-  
+- 📫 Como entrar em contato comigo **joao_vitorh@outlook.com**
+
+<h3 align = "left"> Conecte-se a mim: </h3>
+<p align = "left">
+<a href="https://instagram.com/joaovitor0177" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "joaovitor0177" height = "30" largura = " 40 "/> </ a>
+</p>
+
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
 style="max-width:100%;"></img>
@@ -28,23 +24,7 @@ style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"
 style="max-width:100%;"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorHanel)](https://github.com/joaovitorhanel/github-readme-stats)
 
-  
-  
- 
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=joaovitorhanel&show_icons=true&locale=en&layout=compact" alt = "joaovitorhanel" /> </p>
 
-<!--
-**JoaoVitorHanel/JoaoVitorHanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=joaovitorhanel&show_icons=true&locale=en" alt = "joaovitorhanel" /> </p>
