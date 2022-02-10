@@ -1,9 +1,7 @@
-<h1 align = "center"> Olá 👋, sou o João Vitor </h1>
-<h3 align = "center"> React Developer </h3>
+<h1 align = "center"> João Vitor </h1>
+<h3 align = "center"> Developer </h3>
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https: // xnufyportfolio.netlify.app/](https://xnufyportfolio.netlify.app/)
-
-- 📫 Como entrar em contato comigo **joao_vitorh@outlook.com**
+- 📫 Entre em contato comigo **joao_vitorh@outlook.com**
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
