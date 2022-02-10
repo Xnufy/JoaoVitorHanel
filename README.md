@@ -1,19 +1,17 @@
 <h1 align = "center"> João Vitor </h1>
 <h3 align = "center"> Developer </h3>
 
-- 📫 Entre em contato comigo **joao_vitorh@outlook.com**
+- 📫 Contact coming **joao_vitorh@outlook.com**
 
-<h3 align = "left"> Conecte-se a mim: </h3>
+<h3 align = "left"> Connect with me: </h3>
 <p align = "left">
 <a href="https://instagram.com/joaovitor0177" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "joaovitor0177" height = "30" largura = " 40 "/> </ a>
 </p>
 
-## Minhas habilidades
+## Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
 style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"
-style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"
 style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"
 style="max-width:100%;"></img>
