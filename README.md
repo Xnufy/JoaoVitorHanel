@@ -6,6 +6,7 @@
 <h3 align = "left"> Connect with me: </h3>
 <p align = "left">
 <a href="https://instagram.com/joaovitor0177" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "joaovitor0177" height = "30" largura = " 40 "/> </ a>
+<a href="https://www.linkedin.com/in/joao-vitor-hanel-6b11ba202/" target="blank"> <img align = "center" src = "https://www.svgrepo.com/show/9911/linkedin.svg" alt = "joaovitor0177" height = "30" largura = " 40 "/> </ a>
 </p>
 
 ## Skills
